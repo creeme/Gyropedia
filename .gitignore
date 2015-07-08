@@ -2,4 +2,5 @@
 .idea/
 
 # Node modules are not to be committed.
+node_modules
 /*/node_modules
