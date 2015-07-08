@@ -1,0 +1,5 @@
+# Webstorm and PHPstorm project files
+.idea/
+
+# Node modules are not to be committed.
+/*/node_modules
