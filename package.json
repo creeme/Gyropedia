@@ -1,0 +1,19 @@
+{
+  "name": "Gyropedia Frontend",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/creeme/Gyropedia.git"
+  },
+  "engines": {
+    "node": "^0.12"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "dependencies": {
+    "tslint": "^2.3.1",
+    "pleeease": "^3.3.0",
+    "typescript": "^1.5.0"
+  }
+}
